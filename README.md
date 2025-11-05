@@ -13,4 +13,4 @@ Este site foi feito em HTML e CSS para mostrar produtos selecionados e indicar l
 - CSS3  
 
 ## 📬 Contato
-contato@achadinhosdashopee.com (ou o e-mail que quiser)
+contato@achadinhosdashopee@gmail.com
